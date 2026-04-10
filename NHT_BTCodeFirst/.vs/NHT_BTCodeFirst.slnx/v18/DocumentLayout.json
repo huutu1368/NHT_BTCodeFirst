@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Program.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Program.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:29:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\appsettings.json",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\appsettings.json",
+              "RelativeToolTip": "NHT_BTCodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T13:20:38.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:13:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\Course.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Course.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:06:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\Grade.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Grade.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:05:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\Student.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Student.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:05:01.358Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

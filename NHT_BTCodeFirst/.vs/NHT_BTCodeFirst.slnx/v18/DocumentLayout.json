@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|d:\\btcodefirst\\nht_btcodefirst\\nht_btcodefirst\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B8EAED-B6C2-E2BF-54E3-EBC9291B7E98}|NHT_BTCodeFirst\\NHT_BTCodeFirst.csproj|solutionrelative:nht_btcodefirst\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\Course.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Course.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:06:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\Grade.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Grade.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:05:49.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "NHT_BTCodeFirst\\Models\\Student.cs",
+              "ToolTip": "D:\\BTCodeFirst\\NHT_BTCodeFirst\\NHT_BTCodeFirst\\Models\\Student.cs",
+              "RelativeToolTip": "NHT_BTCodeFirst\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:05:01.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
